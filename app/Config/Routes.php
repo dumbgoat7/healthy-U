@@ -38,7 +38,10 @@ $routes->set404Override();
 $routes->get('/', 'Home::index');
 $routes->resource('user');
 $routes->resource('news');
-$routes->resource('vaccination');
+$routes->get('/Vaccination', 'Vaccination::index');
+$routes->post('/Vaccination', 'Vaccination::create');
+$routes->put('/Vaccination/(:num)', 'Vaccination::update/$1');
+$routes->delete('/Vaccination/(:num)', 'Vaccination::delete/$1');
 /*
  * --------------------------------------------------------------------
  * Additional Routing

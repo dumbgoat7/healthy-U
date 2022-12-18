@@ -134,16 +134,19 @@ class Vaccination extends ResourceController
      */
     public function update($id = null)
     {
-        $model = new ModelVaccination();
 
+        $model = new ModelVaccination();
+        // return $data;
         $data = [
             'program' => $this->request->getVar("program"),
             'idUser' => $this->request->getVar("idUser"),
             'tanggal' => $this->request->getVar("tanggal"),
             'pelaksana' => $this->request->getVar("pelaksana"),
         ];
+        
 
         $data = $this->request->getRawInput();
+        // return $id;
         $model->update($id, $data);
         $response = [
             'status' => 200,
