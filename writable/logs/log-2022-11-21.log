@@ -1,0 +1,36 @@
+CRITICAL - 2022-11-21 08:26:33 --> Class "App\Controllers\ModelUser" not found
+in APPPATH\Controllers\User.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\User->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 08:33:14 --> Class "App\Controllers\ModelUser" not found
+in APPPATH\Controllers\User.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\User->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 08:36:45 --> Class "App\Controllers\ModelUser" not found
+in APPPATH\Controllers\User.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\User->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:03:17 --> Class "App\Controllers\ModelUser" not found
+in APPPATH\Controllers\User.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\User->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:04:09 --> Class "App\Controllers\ModelUser" not found
+in APPPATH\Controllers\User.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\User->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:05:17 --> Class "App\Controllers\ModelUser" not found
+in APPPATH\Controllers\User.php on line 82.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\User->create()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

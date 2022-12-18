@@ -1,0 +1,35 @@
+CRITICAL - 2022-12-18 04:31:43 --> Undefined variable $cari
+in APPPATH\Controllers\Vaccination.php on line 41.
+ 1 APPPATH\Controllers\Vaccination.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cari', 'APPPATH\\Controllers\\Vaccination.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Vaccination->show('3')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccination))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 04:32:06 --> Undefined variable $cari
+in APPPATH\Controllers\Vaccination.php on line 41.
+ 1 APPPATH\Controllers\Vaccination.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cari', 'APPPATH\\Controllers\\Vaccination.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Vaccination->show('3')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccination))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 04:45:29 --> Undefined variable $cari
+in APPPATH\Controllers\Vaccination.php on line 41.
+ 1 APPPATH\Controllers\Vaccination.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cari', 'APPPATH\\Controllers\\Vaccination.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Vaccination->show('3')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccination))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 05:09:18 --> Undefined variable $cari
+in APPPATH\Controllers\Vaccination.php on line 41.
+ 1 APPPATH\Controllers\Vaccination.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cari', 'APPPATH\\Controllers\\Vaccination.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Vaccination->show('3')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccination))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-18 05:16:42 --> Undefined variable $cari
+in APPPATH\Controllers\Vaccination.php on line 41.
+ 1 APPPATH\Controllers\Vaccination.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cari', 'APPPATH\\Controllers\\Vaccination.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Vaccination->show('3')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccination))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
